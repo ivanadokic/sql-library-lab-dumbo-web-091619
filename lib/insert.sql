@@ -1,5 +1,6 @@
 INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Harry Potter", 1, 1);
-INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Lord of the Rings", 2, 2);
+
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("A Song of Ice and Fire", 1, 1);
 
 
 INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Fellowship of the Ring", 1954, 2);
